@@ -1,4 +1,4 @@
-<h2> Hi, I'm Leonardo Bitencourt! <img src="https://media.giphy.com/media/3eUQXPop5VjgYv3r0s/giphy.gifz" width="50"></h2>
+<h2> Hi, I'm Leonardo Bitencourt! <img src="https://media.giphy.com/media/Yr53aOXHZW6f0M990C/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="230">
 <p><em>Junior FullStack Developer, alumini from <a href="https://www.academiadecodigo.org"><Academia de Código_></a>
 
