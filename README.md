@@ -21,4 +21,4 @@ const leo = {
 }
 ```
 
-<img src="https://media.giphy.com/media/dUTLSJax7LCr3LFGON/giphy.gif" width="60"> <em><b> I am a very approachable and friendly person, who's craving to put those skills to work. So, if you feel like it, say hi! </b></em>
+<img src="https://media.giphy.com/media/dUTLSJax7LCr3LFGON/giphy.gif" width="60"> <em> I am a very approachable and friendly person, who's craving to put those skills to work. So, if you feel like it, say hi! </em>
