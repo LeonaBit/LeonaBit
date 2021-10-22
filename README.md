@@ -11,7 +11,7 @@
 ```javascript
 const leo = {
   pronouns: "he" | "his",
-  code: [Java, webMethods , Outsystems, Javascript, HTML, CSS, SQL],
+  code: [Java, webMethods, Outsystems, Javascript, HTML, CSS, SQL],
   tools: [React, Node, Bootstrap, Hibernante, Ajax, jQuery, Maven, MySQL, Git],
   curiosities: {
                         dance: "Professional Ballet/Jazz dancer",
